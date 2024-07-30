@@ -1,0 +1,27 @@
+body{
+    background-color: #ffffff;
+    color: #bc162a ;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+ /*conteudo principal*/
+ .conteudo-pricipal{
+width:80%;
+margin: auto;
+padding: 20px;
+ }
+ 
+ /*cabeçalhos*/
+ h1,h2,h3{
+text-align: center;
+color: #940533;
+text-shadow: 2px 2px 4px ;
+ }
+/*paragrafos*/
+p{
+    line-height:1.6 ;
+    margin-bottom: 20px;
+
+}
+
